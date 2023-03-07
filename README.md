@@ -1,7 +1,7 @@
 # RoBound Calculator
 Open-source and easily usable code for generation of bounds on the robustness of neutral sets in genotype-phenotype maps.
 
-## [Access RoBound Calculator (v1.0)](https://colab.research.google.com/github/vaibhav-mohanty/RoBound-Calculator/blob/main/RoBound_Calculator.ipynb)
+## [Click here to access RoBound Calculator (v1.0)](https://colab.research.google.com/github/vaibhav-mohanty/RoBound-Calculator/blob/main/RoBound_Calculator.ipynb)
 
 Please cite **Mohanty V, Greenbury SF, Sarkany T, Narayanan S, Ahnert SE, and Louis AA. Maximally Robust Neutral Sets in Genotype-Phenotype Maps. 2023.**
 
